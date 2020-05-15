@@ -38,9 +38,8 @@ public class OpenBrowser {
     //-----------------------------------
     public void start() {
         wd = new ChromeDriver();
-
         wd.manage().window().maximize();
-        wd.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
+        wd.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);   // ishet locator vse vremya, poka ne proidet 5 sec
     }
 
     public void stop() {

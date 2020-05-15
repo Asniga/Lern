@@ -23,8 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/OpenBrowser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="203">
+              <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#261#262#0" expanded="true" />
@@ -33,7 +33,7 @@
                 <element signature="e#1117#1118#0" expanded="true" />
                 <element signature="e#1278#1279#0" expanded="true" />
                 <element signature="e#1350#1351#0" expanded="true" />
-                <element signature="e#1657#1658#0" expanded="true" />
+                <element signature="e#1709#1710#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -99,7 +99,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589569037926" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589569839541" />
     <property name="extract.method.default.visibility" value="public" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
@@ -145,21 +145,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="OpenBrowser - 2020.05.15 at 21h 01m 10s.xml">
-      <configuration name="OpenBrowser" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OpenBrowser - 2020.05.15 at 21h 02m 50s.xml">
-      <configuration name="OpenBrowser" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OpenBrowser - 2020.05.15 at 21h 05m 00s.xml">
-      <configuration name="OpenBrowser" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OpenBrowser - 2020.05.15 at 21h 25m 05s.xml">
-      <configuration name="OpenBrowser" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OpenBrowser - 2020.05.15 at 21h 28m 25s.xml">
-      <configuration name="OpenBrowser" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="OpenBrowser - 2020.05.15 at 21h 40m 18s.xml">
       <configuration name="OpenBrowser" configurationId="JUnit" />
     </history-entry>
@@ -173,6 +158,21 @@
       <configuration name="OpenBrowser" configurationId="JUnit" />
     </history-entry>
     <history-entry file="OpenBrowser - 2020.05.15 at 21h 55m 47s.xml">
+      <configuration name="OpenBrowser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OpenBrowser - 2020.05.15 at 21h 57m 09s.xml">
+      <configuration name="OpenBrowser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OpenBrowser - 2020.05.15 at 21h 57m 45s.xml">
+      <configuration name="OpenBrowser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OpenBrowser - 2020.05.15 at 22h 08m 10s.xml">
+      <configuration name="OpenBrowser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OpenBrowser - 2020.05.15 at 22h 08m 36s.xml">
+      <configuration name="OpenBrowser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OpenBrowser - 2020.05.15 at 22h 09m 29s.xml">
       <configuration name="OpenBrowser" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -225,8 +225,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/OpenBrowser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="203">
+          <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#261#262#0" expanded="true" />
@@ -235,7 +235,7 @@
             <element signature="e#1117#1118#0" expanded="true" />
             <element signature="e#1278#1279#0" expanded="true" />
             <element signature="e#1350#1351#0" expanded="true" />
-            <element signature="e#1657#1658#0" expanded="true" />
+            <element signature="e#1709#1710#0" expanded="true" />
           </folding>
         </state>
       </provider>
