@@ -23,10 +23,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/OpenBrowser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="210">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
+                <element signature="e#284#285#0" expanded="true" />
+                <element signature="e#1092#1093#0" expanded="true" />
+                <element signature="e#1117#1118#0" expanded="true" />
+                <element signature="e#1278#1279#0" expanded="true" />
+                <element signature="e#1350#1351#0" expanded="true" />
+                <element signature="e#1657#1658#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -92,7 +99,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589565882627" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589569037926" />
+    <property name="extract.method.default.visibility" value="public" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
@@ -137,34 +145,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="OpenBrowser - 2020.05.15 at 19h 55m 33s.xml">
-      <configuration name="OpenBrowser" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OpenBrowser - 2020.05.15 at 19h 59m 15s.xml">
-      <configuration name="OpenBrowser" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OpenBrowser - 2020.05.15 at 20h 00m 23s.xml">
-      <configuration name="OpenBrowser" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OpenBrowser - 2020.05.15 at 20h 55m 05s.xml">
-      <configuration name="OpenBrowser" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OpenBrowser - 2020.05.15 at 20h 56m 27s.xml">
-      <configuration name="OpenBrowser" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OpenBrowser - 2020.05.15 at 20h 59m 04s.xml">
-      <configuration name="OpenBrowser" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OpenBrowser - 2020.05.15 at 20h 59m 42s.xml">
-      <configuration name="OpenBrowser" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OpenBrowser - 2020.05.15 at 21h 00m 31s.xml">
-      <configuration name="OpenBrowser" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="OpenBrowser - 2020.05.15 at 21h 01m 10s.xml">
       <configuration name="OpenBrowser" configurationId="JUnit" />
     </history-entry>
     <history-entry file="OpenBrowser - 2020.05.15 at 21h 02m 50s.xml">
+      <configuration name="OpenBrowser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OpenBrowser - 2020.05.15 at 21h 05m 00s.xml">
+      <configuration name="OpenBrowser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OpenBrowser - 2020.05.15 at 21h 25m 05s.xml">
+      <configuration name="OpenBrowser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OpenBrowser - 2020.05.15 at 21h 28m 25s.xml">
+      <configuration name="OpenBrowser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OpenBrowser - 2020.05.15 at 21h 40m 18s.xml">
+      <configuration name="OpenBrowser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OpenBrowser - 2020.05.15 at 21h 41m 24s.xml">
+      <configuration name="OpenBrowser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OpenBrowser - 2020.05.15 at 21h 42m 18s.xml">
+      <configuration name="OpenBrowser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OpenBrowser - 2020.05.15 at 21h 52m 43s.xml">
+      <configuration name="OpenBrowser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OpenBrowser - 2020.05.15 at 21h 55m 47s.xml">
       <configuration name="OpenBrowser" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -186,7 +194,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3569405" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -217,10 +225,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/OpenBrowser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="210">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#1092#1093#0" expanded="true" />
+            <element signature="e#1117#1118#0" expanded="true" />
+            <element signature="e#1278#1279#0" expanded="true" />
+            <element signature="e#1350#1351#0" expanded="true" />
+            <element signature="e#1657#1658#0" expanded="true" />
           </folding>
         </state>
       </provider>
