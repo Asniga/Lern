@@ -1,7 +1,5 @@
 import org.junit.After;
-import org.junit.AfterClass;
 import org.junit.Before;
-import org.junit.BeforeClass;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -64,7 +62,7 @@ public class TestBase {
 public void logIn() {
     click(By.cssSelector("#ctl00_ucNavigationBar_ucNavigationBarAreaLeft_ancOnline"));
     switchWindow();
-    type(By.cssSelector("#identifyWithPasswordCitizenId"), "332300003");
+    type(By.cssSelector("#identifyWithPasswordCitizenId"), "123");
     type(By.cssSelector("#password"), "sinsin");
     click(By.xpath("//button[@class='submit validatePassword']"));
 }
